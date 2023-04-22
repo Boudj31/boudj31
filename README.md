@@ -24,7 +24,7 @@ If you're interested in working together, feel free to reach out to me via rachi
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" &nbsp;height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" title="javascript" alt="javascript" width="40" &nbsp;height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" &nbsp;height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="40" &nbsp;height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="React" alt="react" width="40" &nbsp;height="40"/>&nbsp;
   
