@@ -20,6 +20,12 @@ I believe in the power of continuous learning and growth. I'm always looking for
 ## 📫 Get in touch
 If you're interested in working together, feel free to reach out to me via rachid.developer31@gmail.com . I'm always open to new opportunities and collaborations.
 
+#### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
+
 ## 📊 Github Stats
 <a href="https://github.com/boudj31/boudj31">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=boudj31&count_private=true&hide=stars,issues&show_icons=true&layout-compacttitle_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Boudj31's GitHub Stats" />
